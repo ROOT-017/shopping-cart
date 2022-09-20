@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-size: 20px;
+}
+.cart.info{
+    padding: 1em;
+}
+.product.container {
+  display: flex;
+  flex-wrap: wrap;
+ 
+  justify-content: center;
+  background-color: #060b26;
+  padding: 1.5em;
+  gap: 1em;
+}
+ol li{
+  display: flex;
+}
+li span.item{
+  width: 6em;
+}
